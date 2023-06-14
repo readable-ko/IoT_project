@@ -11,11 +11,11 @@ This repository shows how to set up sever, client and how to execute.
 
 
 1. [Setting Up Environment](#setting-up-environment)
-   * [Using c++11](#using-c++-std=11)
+   * [Using c++11](#using-c11)
    * [Using Ncurses library](#using-ncurses-library)
    * [Using boost library](#using-boost-library)
 2. [Execute](#execute)
-   * [Run on Window / Ubuntu](#run-on-window-/-ubuntu)
+   * [Run on Window / Ubuntu](#run-on-window--ubuntu)
    * [Run on Mac OS](#run-on-mac-os)
 
 
@@ -44,6 +44,20 @@ sudo apt-get install libncurses5-dev libncursesw5-dev
 ```bash
 # install ncurses for get an input without enter.
 brew install ncurses
+```
+
+## Using boost library
+#### Window/Ubuntu
+[you can also download on here](https://www.boost.org/users/download/)
+```bash
+# install ncurses for get an input without enter.
+sudo apt-get install libboost-all-dev
+```
+
+#### MacOS
+```bash
+# install boost for get an input without enter.
+brew install boost
 ```
 
 # Execute
