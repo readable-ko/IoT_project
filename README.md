@@ -12,11 +12,11 @@ This repository shows how to set up sever, client and how to execute.
 
 1. [Setting Up Environment](#setting-up-environment)
    * [Using c++11](#using-c++-std=11)
-   * [Using Ncurses library](#using-ncurses)
-   * [Using boost library](#using-boost)
+   * [Using Ncurses library](#using-ncurses-library)
+   * [Using boost library](#using-boost-library)
 2. [Execute](#execute)
-   * [Run on Window / Ubuntu](#run-on-window-ubuntu)
-   * [Run on Mac OS](#run-on-macos)
+   * [Run on Window / Ubuntu](#run-on-window-/-ubuntu)
+   * [Run on Mac OS](#run-on-mac-os)
 
 
 # Setting Up Environment
