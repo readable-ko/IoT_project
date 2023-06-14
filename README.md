@@ -3,7 +3,7 @@
 ## 더 글로리조, 1 ON 1 Soccer version 1.0
 This repository is made by
 * HGU 17 [Ko Yeong Kwang](https://github.com/readable-ko)
-* HGU 18 [Cho Hasung]()
+* HGU 18 [Cho Hasung](https://github.com/1ifeofcho)
 
 This powerpoint is created for the explain. [Google Slide](https://docs.google.com/presentation/d/1V1Mb-gftc5J1BWbL1Qt95pkN7dhGs9hrGvpWuY_q3NE/edit?usp=sharing).
 
